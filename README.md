@@ -4,3 +4,5 @@ Generation Tech is a national program under the Digital Nation brand, an organiz
 
 Learn practical knowledge in designing web pages with PHP, WordPress and Bootstrap using HTML, CSS and JavaScript. You will complete projects and be prepared for entry-level jobs.
 
+In this Project, we present a movies platforms that designed by WordPress and PHP.
+
