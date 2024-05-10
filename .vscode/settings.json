@@ -1,0 +1,7 @@
+{
+"phpServer.phpExecutablePath": "php",
+"phpServer.phpIniPath": "path_to_your_php.ini_file",
+"phpServer.phpIniScanDir": "path_to_directory_containing_additional_ini_files",
+"phpServer.memoryLimit": "256M"
+
+}
